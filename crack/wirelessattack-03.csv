@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+3C:46:D8:97:BB:66, 2018-12-30 23:23:18, 2018-12-30 23:30:48,  7,  11, WEP, WEP GCMP, OPN, -46,     4037,    24303,   0.  0.  0.  0,   7, TEST-YU, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+F0:18:98:28:5D:ED, 2018-12-30 23:27:21, 2018-12-30 23:29:49, -40,     6586, 3C:46:D8:97:BB:66,
+00:11:22:33:44:55, 2018-12-30 23:26:16, 2018-12-30 23:29:48,   0,   116074, 3C:46:D8:97:BB:66,
+

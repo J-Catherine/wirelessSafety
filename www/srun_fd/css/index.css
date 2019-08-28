@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ul05{
+	position:absolute;
+	left: 30px;
+	top: 371px;
+}
+
+.ul05 div,.ul06 div,.ul07 div{ background:url(../images/khd_bj.png) no-repeat; width:403px; height:37px; line-height:37px; text-align:center; color:#FFF}
+.ul05 li{ float:left; margin-right:30px; margin-top:15px;}
+.ul05 .li01,.ul05 .li02,.ul05 .li03,.ul05 .li04{ background:url(../images/buttons.png) no-repeat; width:45px;height:52px}
+.ul05 .li01{ background-position: -266px 0; margin-left:50px}
+.ul05 .li01:hover,.ul05 .li02:hover,.ul05 .li03:hover,.ul05 .li04:hover{ width:45px; height:52px}
+.ul05 .li01:hover{background-position: -266px -80px; margin-left:50px}
+.ul05 .li02:hover{background-position:-178px -80px; width:40px}
+.ul05 .li02{ background-position:-178px 0; width:40px }
+.ul05 .li03{ background-position:-5px 0;}
+.ul05 .li03:hover{ background-position:-5px -81px;}
+.ul05 .li04{ background-position:-330px 0;}
+.ul05 .li04:hover{ background-position:-330px -80px;}
+.ul05 .li05{ background: url(../images/qie.png) no-repeat; width:45px; height:52px; margin-top:25px}
+.ul05 .li05:hover{ background: url(../images/qie_lan.png) no-repeat;width:45px; height:52px; margin-top:25px}
+
+.ul05 span{ display:block; color:#999; margin-top:55px;}
+.ul05 span:hover{ color:#1a6ab2}
+.ul05 .li05 span{ margin-top:45px; margin-left:8px}
+

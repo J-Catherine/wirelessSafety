@@ -1,0 +1,18 @@
+[
+  {
+    "bssid": "3C:46:D8:97:BB:66", 
+    "essid": "TEST-YU", 
+    "key": "1234qwer", 
+    "date": 1546234555, 
+    "handshake_file": "hs/handshake_TESTYU_3C-46-D8-97-BB-66_2018-12-31T00-35-51.cap", 
+    "type": "WPA"
+  }, 
+  {
+    "bssid": "F0:B4:29:10:82:D5", 
+    "essid": "MI", 
+    "key": "mi123456", 
+    "date": 1546234928, 
+    "handshake_file": "hs/handshake_MI_F0-B4-29-10-82-D5_2018-12-31T00-39-10.cap", 
+    "type": "WPA"
+  }
+]
